@@ -13,7 +13,7 @@
         "npm-debug.log": true
     },
   
-    "editor.fontFamily": "Roboto Mono",
+    "editor.fontFamily": "'Iosevka Type Medium', 'Source Code Pro', 'Inconsolata-g','Consolas'",
     "editor.fontSize": 16,
     "editor.cursorBlinking": "solid",
     "editor.showUnused": false,
